@@ -20,7 +20,8 @@ chartcols = ['sp_followers',
 
 @st.experimental_memo(suppress_st_warning = True)
 def csv_load():
-	df = pd.read_csv('BIG-SHOWS-RAW.csv')
+	url = 'raw.githubusercontent.com/cody8522/texticketsmodel/main/BIG-SHOWS-RAW.csv'
+	df = pd.read_csv(url, index_col = 0)
 	st.write(df.head())
 	event = pd.read_csv('Old Shows - Old Shows (1).csv')
 	venue_info = pd.read_csv('Venue Information.csv')
