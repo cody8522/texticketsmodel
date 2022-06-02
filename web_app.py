@@ -16,7 +16,7 @@ chartcols = ['sp_followers',
 	 'sp_playlist_total_reach',
 	 'cm_artist_rank','cm_artist_score','facebook_followers','ins_followers']
 
-df = pd.read_csv('BIG_SHOWS_RAW.csv')
+df = pd.read_csv('BIG-SHOWS-RAW.csv')
 	st.write(df.head())
 
 
