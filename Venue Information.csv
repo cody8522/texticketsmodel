@@ -1,0 +1,1331 @@
+Name,City,State,ZipCode,Adjusted Capacity
+Rogers Place,Edmonton,AB,T5J 4Y8,20734
+Bonnetts Energy Centre,Grande Prairie,AB,T8V 0R7,4500
+Edmonton EXPO Centre,Edmonton,AB,T5J 2N5,4200
+Union Hall - Edmonton,Edmonton,AB,T5B 4M9,900
+Cowboys Tent - Calgary,Calgary,AB,T2G0W3,4500
+Northern Alberta Jubilee Auditorium,Edmonton,AB,T6G2T2,500
+Grey Eagle Resort and Casino,Calgary,AB,T3E 3X8,2600
+Co-op Place,Medicine Hat,AB,T1C0H3,7000
+Francis Winspear Centre,Edmonton,AB,T5J4X8,1932
+Jack Singer Hall,Calgary,AB,T2G 0K8,1797
+Stampede Corral,Calgary,AB,T2G 2W1,7475
+Edmonton Convention Centre,Edmonton,AB,T5J 1N9,6000
+Scotiabank Saddledome,Calgary,AB,T2G 2W1,19289
+Dena'ina Center,Anchorage,AK,99501,5000
+Alaska State Fair - Borealis Theatre,Palmer,AK,99645,3000
+Carlson Center,Fairbanks,AK,99701,99701
+Mobile Fairgrounds,Mobile,AL,36608,7000
+Von Braun Center Arena,Huntsville,AL,35801,10000
+Saenger Theatre-AL,Mobile,AL,36602,1921
+Legacy Arena at The BJCC,Birmingham,AL,35203,17654
+Tuscaloosa Amphitheater,Tuscaloosa,AL,35401,7740
+Orion Amphitheater,Huntsville,AL,35805,8000
+Saturn,Birmingham,AL,35216,500
+Soul Kitchen,Mobile,AL,36602,1100
+Druid City Music Hall,Tuscaloosa,AL,35401,1050
+Mars Music Hall at Von Braun Center,Huntsville,AL,35801,1500
+Avondale Brewing Company,Birmingham,AL,35222,2000
+Von Braun Center Concert Hall,Huntsville,AL,35801,1955
+BJCC Concert Hall,Birmingham,AL,35203,2800
+Montgomery Performing Arts Center,Montgomery,AL,36104,1800
+The Plant,Dothan,AL,36303,500
+Boutwell Auditorium,Birmingham,AL,35203,6000
+Bill Harris Arena,Birmingham,AL,35208,5000
+Alabama Theatre Birmingham,Birmingham,AL,35203,2500
+Amphitheater at The Wharf,Orange Beach,AL,36561,10000
+Oak Mountain Amphitheatre,Pelham,AL,35124,10600
+Iron City Birmingham,Birmingham,AL,35233,1300
+Zydeco,Birmingham,AL,35203,1650
+ASU Acadome,Montgomery,AL,36101,7400
+Walmart AMP,Rogers,AR,72727,9500
+Simmons Bank Arena,North Little Rock,AR,72114,18000
+First National Bank Arena,Jonesboro,AR,72401,10252
+Templelive,Fort Smith,AR,72901,1100
+Robinson Performance Hall,Little Rock,AR,72201,2222
+The Hall - Little Rock,Little Rock,AR,72201,1300
+First Security Amphitheatre,Little Rock,AR,72201,8375
+Footprint Center,Phoenix,AZ,85004,18422
+Gila River Arena,Glendale,AZ,85310,18300
+Tucson Arena,Tucson,AZ,85701,8962
+State Farm Stadium,Glendale,AZ,85303,21000
+The Van Buren,Phoenix,AZ,85003,1900
+Arizona Federal Theatre,Phoenix,AZ,85003,5500
+Findlay Toyota Center,Prescott Valley,AZ,86314,6200
+Anselmo Valencia Amphitheater,Tucson,AZ,85746,5000
+Harrahs Ak-Chin Casino Resort,Maricopa,AZ,85139,20000
+Westworld of Scottsdale,Scottsdale,AZ,85260,3400
+Chandler Arts Center,Chandler,AZ,85225,1508
+Birds Nest Phoenix Open at TPC of Scottsdale,Scottsdale,AZ,85255,9000
+Crescent Ballroom - Phoenix,Phoenix,AZ,85003,500
+The Rock,Tucson,AZ,85719,7000
+Marquee Theatre,Tempe,AZ,85281,1500
+The Pressroom,Phoenix,AZ,85003,1000
+Desert Diamond Casino Sahuarita,Sahuarita,AZ,85629,2000
+Tucson Music Hall,Tucson,AZ,85701,9275
+Celebrity Theatre,Phoenix,AZ,85008,2650
+Ak-Chin Pavilion,Phoenix,AZ,85035,20000
+Chase Field,Phoenix,AZ,85004,48686
+Pub Rock,Scottsdale,AZ,85257,350
+The Pool at Talking Stick Resort,Scottsdale,AZ,85256,650
+Rialto Theatre Tucson,Tucson,AZ,85701,1200
+Rogers Arena,Vancouver,BC,V6B 6G1,19700
+PNE Rogers Amphitheatre,Vancouver,BC,V5K5J1,7000
+Doug Mitchell Thunderbird Sports Centre,Vancouver,BC,V6T 1Z3,7200
+South Okanagan Events Centre,Penticton,BC,V2A 9C4,5000
+PNE Forum,Vancouver,BC,V5K5J1,3950
+The CN Centre,Prince George,BC,V2N 6Z1,5500
+EnCana Events Centre,Dawson Creek,BC,V1G 0A4,6500
+Kelowna Theatre,Kelowna,BC,V1Y0B4,853
+Western Financial Place,Cranbrook,BC,V1C6L9,6000
+Abbotsford Centre,Abbotsford,BC,V2S 8H8,8500
+Save on Foods Memorial Centre,Victoria,BC,V8T 4J2,7400
+BC Place Stadium,Vancouver,BC,V6B 4Y8,54500
+Fortune Sound Club,Vancouver,BC,V6A 1T5,294
+Commodore Ballroom,Vancouver,BC,V6Z 1K3,990
+Pacific Coliseum,Vancouver,BC,V5K 4W3,17713
+Queen Elizabeth Theatre - Vancouver,Vancouver,BC,V6B 5N6,2765
+Vogue Theatre - BC,Vancouver,BC,V6Z 1L2,1250
+Sandman Centre,Kamloops,BC,V2C 1W3,5464
+SAP Center,San Jose,CA,95113,17496
+Golden 1 Center,Sacramento,CA,95814,17608
+Crypto.com Arena,Los Angeles,CA,90015,18118
+L.A. Forum,Inglewood,CA,90305,17505
+Honda Center,Anaheim,CA,92806,18900
+Chase Center,San Francisco,CA,94158,18064
+Pechanga Arena,San Diego,CA,92110,16100
+Bill Graham Civic Auditorium,San Francisco,CA,94102,7000
+Greek Theatre - Los Angeles,Los Angeles,CA,90027,5800
+Cal Coast Credit Union Open Air Theatre at SDSU,San Diego,CA,92128,4500
+Shrine Auditorium and Expo Hall Los Angeles,Los Angeles,CA,90007,6300
+Rose Bowl Stadium,Pasadena,CA,91103,92542
+YouTube Theater,Inglewood,CA,90301,6000
+Hollywood Palladium,Los Angeles,CA,90028,3500
+Troubadour,West Hollywood,CA,90069,500
+The Wiltern,Los Angeles,CA,90010,2300
+The Rady Shell at Jacobs Park,San Diego,CA,92101,8500
+Santa Barbara Bowl,Santa Barbara,CA,93103,4569
+Banc of California Stadium,Los Angeles,CA,90037,22000
+Toyota Arena - CA,Ontario,CA,91764,11089
+The Grammy Museum,Los Angeles,CA,90015,600
+SoFi Stadium,Inglewood,CA,90305,70240
+Oakland Arena,Oakland,CA,94621,19596
+Save Mart Center,Fresno,CA,93710,16182
+Levi's Stadium,Santa Clara,CA,95054,68500
+Mechanics Bank Arena,Bakersfield,CA,93301,10000
+Morongo Casino Resort and Spa,Cabazon,CA,92230,2557
+Pacific Amphitheatre,Costa Mesa,CA,92626,8000
+Dignity Health Amphitheatre,Bakersfield,CA,93311,4000
+El Rey Theatre Los Angeles,Los Angeles,CA,90036,70
+The Fruit Yard,Modesto,CA,95357,3969
+FivePoint Amphitheatre,Irvine,CA,92618,12000
+California Mid-State Fair,Paso Robles,CA,93446,15000
+Glen Helen Amphitheater,San Bernardino,CA,92407,65000
+Luther Burbank Center for the Arts,Santa Rosa,CA,95403,1681
+Bob Hope Theatre - CA,Stockton,CA,95202,2042
+Cascade Theater,Redding,CA,96001,997
+The Novo,Los Angeles,CA,90015,2400
+Paso Robles Event Center,Paso Robles,CA,93446,3300
+Ace of Spades,Sacramento,CA,95811,1000
+Salinas Sports Complex,Salinas,CA,93906,16670
+Harlows Night Club,Sacramento,CA,95816,300
+The New Parish,Oakland,CA,94612,250
+Fox Theater Pomona,Pomona,CA,91766,1750
+Alex Madonna Expo Center,San Luis Obispo,CA,93405,2600
+San Jose Civic,San Jose,CA,95113,2850
+Los Angeles Memorial Coliseum,Los Angeles,CA,90037,78467
+Soma,San Diego,CA,92110,2300
+House of Blues Anaheim,Anaheim,CA,92802,1800
+August Hall,San Francisco,CA,94102,951
+North Island Credit Union Amphitheatre,Chula Vista,CA,91911,19500
+Shoreline Amphitheatre - CA,Mountain View,CA,94043,22000
+Toyota Amphitheatre,Wheatland,CA,95692,18500
+Belasco Theater Los Angeles,Los Angeles,CA,90015,1016
+Provident Credit Union Event Center,San Jose,CA,95192,5000
+1015 Folsom,San Francisco,CA,94103,1400
+Exchange,Los Angeles,CA,90014,1500
+Cafe Du Nord at Swedish American Hall,San Francisco,CA,94114,260
+ROW DTLA,Los Angeles,CA,90021,350
+Granada Theater Santa Barbara,Santa Barbara,CA,93103,1000
+Globe Theatre,Los Angeles,CA,90014,1570
+Westside Tuolumne - Black Oak Casino Resort,Tuolumne,CA,95379,6000
+Los Angeles County Fair,Pomona,CA,91768,10000
+Thunder Valley Casino Resort,Lincoln,CA,95648,4500
+Harrahs Resort SoCal The Events Center,Valley Center,CA,92082,2200
+Cathedral Sanctuary at Immanuel Presbyterian,Los Angeles,CA,90010,2000
+Weill Hall at Sonoma State University,Rohnert Park,CA,94928,268
+Ironstone Amphitheatre at Ironstone Vineyards,Murphys,CA,95247,6900
+Cache Creek Casino - Summer Stage Outdoor Amphitheatre,Brooks,CA,95606,1300
+Frost Amphitheater,Stanford,CA,94305,8000
+Mechanics Bank Theater,Bakersfield,CA,93301,10000
+Pechanga Entertainment Center,Temecula,CA,92592,16100
+The Masonic Lodge at Hollywood Forever,Los Angeles,CA,90038,3481
+Chumash Casino Resort,Santa Ynez,CA,93460,1430
+Fox Performing Arts Center,Riverside,CA,92501,1600
+Gallo Center for the Arts,Modesto,CA,95354,1248
+Santa Cruz Civic Auditorium,Santa Cruz,CA,95060,2015
+Luther Burbank Center for the Arts - Ruth Finley Person Theater,Santa Rosa,CA,95403,1600
+Spreckels Theatre,San Diego,CA,92101,1463
+Grove of Anaheim,Anaheim,CA,92806,1700
+The Show - Agua Caliente Casino,Rancho Mirage,CA,92270,2057
+Fred Kavli Theatre-Thousand Oaks Civic Arts,Thousand Oaks,CA,91362,1800
+Sacramento Memorial Auditorium,Sacramento,CA,95814,3867
+Senator Theatre - CA,Chico,CA,95928,550
+Rotary Amphitheater,Fresno,CA,93720,3400
+Graton Resort and Casino - The Ballroom,Rohnert Park,CA,94928,1600
+Buck Owens Crystal Palace,Bakersfield,CA,93308,550
+Granite Park,Fresno,CA,93726,7000
+SilverLakes Festival Grounds,Norco,CA,92860,30000
+Vina Robles Amphitheatre,Paso Robles,CA,93446,3300
+Fantasy Springs Resort Casino,Indio,CA,92203,268
+Mountain Winery,Saratoga,CA,95070,2500
+Viejas Arena,San Diego,CA,92182,12500
+Roxy Theatre Los Angeles,West Hollywood,CA,90069,500
+House of Blues San Diego,San Diego,CA,92101,1100
+The Canyon Santa Clarita,Santa Clarita,CA,91355,1300
+Dodger Stadium,Los Angeles,CA,90012,56000
+Concord Pavilion,Concord,CA,94521,12500
+PETCO Park,San Diego,CA,92101,42445
+Hollywood Bowl,Los Angeles,CA,90068,17376
+Fox Theater Oakland,Oakland,CA,94612,2800
+The Observatory North Park,San Diego,CA,92104,1100
+The Masonic - San Francisco,San Francisco,CA,94108,3481
+The Regency Ballroom,San Francisco,CA,94109,1400
+Selland Arena at Fresno Convention Center,Fresno,CA,93721,11300
+The Observatory Santa Ana,Santa Ana,CA,92704,1000
+Saban Theatre,Beverly Hills,CA,90211,1897
+Warfield,San Francisco,CA,94102,2250
+Fonda Theatre,Los Angeles,CA,90028,1300
+Orpheum Theatre - Los Angeles,Los Angeles,CA,90014,2650
+Avila Beach Golf Resort,Avila Beach,CA,93424,5000
+Great American Music Hall,San Francisco,CA,94109,600
+Clos La Chance Winery,San Martin,CA,95046,500
+Palace of Fine Arts,San Francisco,CA,94123,932
+Fillmore San Francisco,San Francisco,CA,94115,1200
+Uptown Theatre Napa,Napa,CA,94559,860
+Humphreys Concerts by the Bay,San Diego,CA,92106,1400
+Ball Arena,Denver,CO,80204,18000
+Red Rocks Amphitheatre,Morrison,CO,80465,9450
+Bluebird Theater,Denver,CO,80206,400
+Ogden Theatre,Denver,CO,80218,1600
+Mission Ballroom,Denver,CO,80216,3950
+Broadmoor World Arena,Colorado Springs,CO,80906,7343
+Empower Field at Mile High,Denver,CO,80204,76125
+Grizzly Rose - CO,Denver,CO,80216,2000
+Vilar Performing Arts Center,Avon,CO,81620,535
+Paramount Theatre Denver,Denver,CO,80202,1870
+Coors Field,Denver,CO,80205,50398
+Summit Music Hall,Denver,CO,80202,1100
+Buttermilk Mountain,Aspen,CO,81611,300
+Cervantes Masterpiece and The Other Side,Denver,CO,80205,1000
+Levitt Pavilion Denver,Denver,CO,80219,17000
+Avalon Theatre - CO,Grand Junction,CO,81501,600
+Macky Auditorium,Boulder,CO,80309,2000
+Dicks Sporting Goods Park,Commerce City,CO,80022,27000
+Budweiser Events Center,Loveland,CO,80538,7200
+Pikes Peak Center,Colorado Springs,CO,80903,1989
+1stBank Center,Broomfield,CO,80021,7500
+Colorado State Fair,Pueblo,CO,81004,8225
+Folsom Field Stadium,Boulder,CO,80302,50183
+Fiddlers Green Amphitheatre,Englewood,CO,80111,18000
+Thunder Mountain Amphitheatre,Loveland,CO,80538,5000
+Fillmore Auditorium Denver,Denver,CO,80218,3600
+Belly Up Aspen,Aspen,CO,81611,450
+Gothic Theatre,Englewood,CO,80113,1100
+Mohegan Sun Arena-CT,Uncasville,CT,6382,9000
+Xfinity Theatre,Hartford,CT,6120,30000
+Oakdale Theatre,Wallingford,CT,6492,4600
+Webster Bank Arena,Bridgeport,CT,6604,10000
+Hartford HealthCare Amphitheater,Bridgeport,CT,6604,8000
+XL Center,Hartford,CT,6120,16294
+Premier Theater at Foxwoods Resort Casino,Mashantucket,CT,6338,4000
+The Dome at Oakdale Theatre,Wallingford,CT,6492,5000
+Toads Place - CT,New Haven,CT,6511,750
+Shrine at MGM Grand Foxwoods,Mashantucket,CT,6338,1100
+Webster Theatre,Hartford,CT,6114,1200
+Palace Theatre at Stamford Center for the Arts,Stamford,CT,6901,1598
+Great Cedar Showroom at Foxwoods Casino,Mashantucket,CT,6339,1400
+Ridgefield Playhouse,Ridgefield,CT,6877,500
+Capital One Arena,Washington DC,DC,20004,20278
+The Anthem,Washington DC,DC,20024,6000
+Union Stage,Washington DC,DC,20024,850
+Echostage,Washington DC,DC,20018,3000
+Lincoln Theatre DC,Washington DC,DC,20006,1225
+Warner Theatre - Washington DC,Washington DC,DC,20004,1900
+Gypsy Sally's,Washington DC,DC,20007,300
+The Hamilton Live,Washington DC,DC,20005,500
+Nationals Park,Washington DC,DC,20003,41888
+U Street Music Hall,Washington DC,DC,20009,500
+9:30 Club,Washington DC,DC,20001,1200
+Hudson Fields,Milton,DE,19968,4000
+Bottle and Cork,Dewey Beach,DE,19971,1100
+Chase Fieldhouse,Wilmington,DE,19801,2500
+Freeman Arts Pavilion,Selbyville,DE,19975,4000
+Delaware State Fair - M&T Bank Grandstand,Harrington,DE,19952,9385
+Amalie Arena,Tampa,FL,33602,21500
+Amway Center,Orlando,FL,32801,20000
+FTX Arena,Miami,FL,33130,19600
+Vystar Veterans Memorial Arena,Jacksonville,FL,32202,15000
+Raymond James Stadium,Tampa,FL,33607,65000
+House of Blues Orlando,Lake Buena Vista,FL,32830,2100
+Hertz Arena,Estero,FL,33928,8284
+FLA Live Arena,Sunrise,FL,33323,20737
+Historic Virginia Key Beach Park,Miami,FL,33149,10000
+Pensacola Bay Center,Pensacola,FL,32504,12000
+St Augustine Amphitheatre,St. Augustine,FL,32080,4092
+Dailys Place Amphitheater,Jacksonville,FL,32202,5500
+Ed Smith Stadium,Sarasota,FL,34237,8500
+The Gulf,Okaloosa Island,FL,32548,10000
+Florida Strawberry Festival Grounds,Plant City,FL,33564,7722
+Seminole Hard Rock Hotel and Casino - Tampa,Tampa,FL,33610,7000
+The Ranch Concert Hall and Saloon,Fort Myers,FL,33907,1785
+Donald Tucker Center at Leon County Civic Center,Tallahassee,FL,32301,12100
+The Moon - FL,Tallahassee,FL,32302,1500
+Tin Roof - Orlando,Orlando,FL,32819,800
+Lillian S. Wells Hall at The Parker,Fort Lauderdale,FL,33304,1147
+Florida Theatre Jacksonville,Jacksonville,FL,32202,1900
+King Center for the Performing Arts,Melbourne,FL,32935,250
+Hard Rock Live at The Event Center,Hollywood,FL,33314,7000
+Meridian - Island Gardens,Miami,FL,33132,3000
+The Oasis at Wynwood,Miami,FL,33127,35000
+Camping World Stadium,Orlando,FL,32805,65000
+TIAA Bank Field,Jacksonville,FL,32202,67164
+Jannus Live,Saint Petersburg,FL,33701,2000
+The Vanguard,Orlando,FL,32801,1555
+The Plaza Live Theatre Orlando,Orlando,FL,32803,1250
+DAER South Florida,Hollywood,FL,33314,7000
+LIV Nightclub,Miami Beach,FL,33140,900
+Culture Room,Fort Lauderdale,FL,33306,650
+The Beacham,Orlando,FL,32801,1250
+Watsco Center,Miami,FL,33146,8000
+Central Florida Fairgrounds,Orlando,FL,32802,10000
+Stephen C. O'Connell Center,Gainesville,FL,32611,10122
+Hard Rock Live - Orlando,Orlando,FL,32819,7000
+Seminole Casino Coconut Creek,Coconut Creek,FL,33073,2000
+Mizner Park Amphitheater,Boca Raton,FL,33432,4200
+Duke Energy Center - Mahaffey Theater,Saint Petersburg,FL,33701,2031
+Times Union Perf. Arts-Moran,Jacksonville,FL,32202,2966
+Walt Disney Theater at Dr Phillips Center,Orlando,FL,32801,2700
+Bob Carr Theater at Dr Phillips Center,Orlando,FL,32801,2401
+Club LA,Destin,FL,32541,600
+Orlando Amphitheater at Central Florida Fairgrounds,Orlando,FL,32808,10000
+MidFlorida Credit Union Amphitheatre at the Florida State Fair Grounds,Tampa,FL,33610,20000
+iTHINK Financial Amphitheatre,West Palm Beach,FL,33411,19300
+Ruth Eckerd Hall,Clearwater,FL,33759,2180
+Hard Rock Live - Hollywood,Hollywood,FL,33314,7000
+Story Nightclub,Miami Beach,FL,33139,1400
+Hard Rock Stadium,Miami Gardens,FL,33056,65326
+High Dive Gainesville,Gainesville,FL,32601,400
+Fillmore Miami Beach at Jackie Gleason Theater,Miami Beach,FL,33139,2700
+Addition Financial Arena,Orlando,FL,32816,5300
+Yuengling Center,Tampa,FL,33620,10411
+Revolution Live,Fort Lauderdale,FL,33312,1300
+Miramar Regional Park,Miramar,FL,33027,5000
+Pegasus Lounge,Tampa,FL,33613,200
+Soundbar - Orlando,Orlando,FL,32801,350
+Capital City Amphitheater,Tallahassee,FL,32301,3500
+State Farm Arena,Atlanta,GA,30303,21000
+Cadence Bank Amphitheatre at Chastain Park,Atlanta,GA,30342,6900
+Gas South Arena,Duluth,GA,30097,13000
+Mercedes-Benz Stadium,Atlanta,GA,30313,71000
+Center Stage Atlanta,Atlanta,GA,30309,1100
+Georgia Theatre,Athens,GA,30601,1028
+Cellairis Amphitheatre at Lakewood,Atlanta,GA,30315,19000
+Miller Theater - Augusta,Augusta,GA,30901,1500
+The Tabernacle,Atlanta,GA,30303,2600
+Coca-Cola Roxy Theatre,Atlanta,GA,30339,3600
+Atlantic Station,Atlanta,GA,30363,6000
+Ameris Bank Amphitheatre,Alpharetta,GA,30009,12000
+Coosa Valley Fairgrounds,Rome,GA,30161,18200
+Buckhead Theatre,Atlanta,GA,30305,1800
+Enmarket Arena,Savannah,GA,31415,9500
+Columbus Civic Center,Columbus,GA,31902,10000
+Macon Centreplex,Macon,GA,31201,9000
+Macon City Auditorium,Macon,GA,31201,2688
+Savannah Civic Center - Johnny Mercer Theatre,Savannah,GA,31401,9600
+Bell Auditorium,Augusta,GA,30901,2700
+Albany Civic Center,Albany,GA,31702,10240
+Lake Olmstead Stadium,Augusta,GA,30904,4822
+Fabulous Fox Theatre - Atlanta,Atlanta,GA,30308,4500
+Saddle Bags Savannah,Savannah,GA,31401,700
+Cobb Energy Performing Arts Centre,Atlanta,GA,30339,2750
+The Masquerade - Heaven,Atlanta,GA,30303,1000
+Classic Center Theatre,Athens,GA,30601,2090
+Savannah Civic Center - Martin Luther King Jr Arena,Savannah,GA,31401,6500
+Symphony Hall Atlanta,Atlanta,GA,30309,1762
+Brewhouse Music and Grill,Rome,GA,30161,500
+Southern Ground Amphitheater,Fayetteville,GA,30214,1750
+Terminal West,Atlanta,GA,30318,600
+Variety Playhouse,Atlanta,GA,30307,1000
+The Eastern,Atlanta,GA,30316,2300
+The Republik - Honolulu,Honolulu,HI,96814,1000
+Neal S Blaisdell Arena,Honolulu,HI,96814,8800
+Aloha Stadium,Honolulu,HI,96818,50000
+Wells Fargo Arena - Des Moines,Des Moines,IA,50309,17000
+Five Flags Center,Dubuque,IA,52004,5200
+Battery Park at Hard Rock Hotel and Casino,Sioux City,IA,51101,5500
+Q Casino,Dubuque,IA,52001,10000
+Great Jones County Fair,Monticello,IA,52310,25000
+Paramount Theatre Cedar Rapids,Cedar Rapids,IA,52401,1693
+Stir Cove at Harrahs Council Bluffs,Council Bluffs,IA,51501,3500
+Hard Rock Hotel and Casino Sioux City,Sioux City,IA,51101,850
+Hoyt Sherman Auditorium,Des Moines,IA,50309,1252
+Surf Ballroom,Clear Lake,IA,50428,2100
+Val Air Ballroom,West Des Moines,IA,50265,2556
+Woolys,Des Moines,IA,50309,700
+Stephens Auditorium,Ames,IA,50011,2602
+Adler Theatre,Davenport,IA,52801,2400
+Orpheum Theatre - Sioux City,Sioux City,IA,51101,2650
+Alliant Energy PowerHouse,Cedar Rapids,IA,52401,9000
+Des Moines Civic Center,Des Moines,IA,50309,2744
+Lakeside Hotel Casino,Osceola,IA,50213,1200
+Iowa State Fair,Des Moines,IA,50317,10600
+McGrath Amphitheatre,Cedar Rapids,IA,52401,5000
+Idaho Center,Nampa,ID,83687,12279
+Coeur D'Alene Casino,Worley,ID,83876,1450
+ExtraMile Arena,Boise,ID,83725,12644
+Revolution Concert House and Event Center,Garden City,ID,83714,2300
+Knitting Factory Concert House Boise,Boise,ID,83702,999
+United Center,Chicago,IL,60612,23500
+Allstate Arena,Rosemont,IL,60018,18500
+Soldier Field,Chicago,IL,60605,61500
+Bottom Lounge,Chicago,IL,60607,300
+House of Blues Chicago,Chicago,IL,60654,1300
+Chicago Theatre,Chicago,IL,60601,3600
+TaxSlayer Center,Moline,IL,61265,9200
+Rosemont Theatre,Rosemont,IL,60018,4300
+Byline Bank Aragon Ballroom,Chicago,IL,60640,5000
+Wintrust Arena,Chicago,IL,60616,10387
+Grossinger Motors Arena,Bloomington,IL,61701,7000
+Peoria Civic Center,Peoria,IL,61602,11442
+Boondocks,Springfield,IL,62702,900
+Joes Live Rosemont,Rosemont,IL,60018,1500
+BMO Harris Bank Center,Rockford,IL,61101,10000
+SeatGeek Stadium,Bridgeview,IL,60455,28000
+NOW Arena,Hoffman Estates,IL,60192,11218
+Illinois State Fairgrounds,Springfield,IL,62706,13000
+Egyptian Theatre - DeKalb,DeKalb,IL,60115,1430
+Devon Lakeshore Amphitheater,Decatur,IL,62521,4000
+Coronado Performing Arts Center,Rockford,IL,61101,2310
+Morgan County Fair Grandstand - IL,Jacksonville,IL,62650,9000
+State Farm Center,Champaign,IL,61820,15500
+Joes on Weed Street,Chicago,IL,60613,800
+The Castle Theatre,Bloomington,IL,61701,700
+Park West,Chicago,IL,60614,1000
+Pops,Sauget,IL,62201,1500
+Hollywood Casino Amphitheatre Chicago,Tinley Park,IL,60477,28600
+PRYSM Nightclub,Chicago,IL,60642,850
+Fourth Presbyterian Church - Chicago,Chicago,IL,60611,1000
+Sangamon Auditorium,Springfield,IL,62703,2005
+Rialto Square Theatre,Joliet,IL,60432,1966
+The Apollo Theatre AC,Belvidere,IL,61008,910
+Patio Theater,Chicago,IL,60634,1500
+Three Sisters Park,Chillicothe,IL,61523,18000
+Ravinia,Highland Park,IL,60035,3200
+Vic Theatre,Chicago,IL,60657,1400
+Wrigley Field,Chicago,IL,60613,41159
+Credit Union 1 Arena at UIC,Chicago,IL,60607,9500
+Huntington Bank Pavilion at Northerly Island,Chicago,IL,60605,29700
+Riviera Theatre - IL,Chicago,IL,60640,2500
+Gainbridge Fieldhouse,Indianapolis,IN,46204,20000
+Ruoff Home Mortgage Music Center,Noblesville,IN,46060,24790
+Ford Center Evansville,Evansville,IN,47708,10000
+Bluebird Nightclub,Bloomington,IN,47401,700
+Murat Egyptian Room at Old National Centre,Indianapolis,IN,46204,2000
+Honeywell Center,Wabash,IN,46992,1500
+The Lerner Theatre,Elkhart,IN,46516,1700
+Conner Prairie Amphitheatre,Fishers,IN,46038,8000
+Embassy Theatre,Fort Wayne,IN,46802,2471
+Blue Gate Performing Arts Center,Shipshewana,IN,46565,1500
+Simon Skjodt Assembly Hall,Bloomington,IN,47408,17222
+The Hi Fi,Indianapolis,IN,46203,400
+Purcell Pavilion at the Joyce Center,Notre Dame,IN,46556,9149
+LaPorte County Fairgrounds,La Porte,IN,46350,14000
+Lucas Oil Stadium,Indianapolis,IN,46204,70000
+Old National Events Plaza,Evansville,IN,47708,2500
+Four Winds Field at Coveleski Stadium,South Bend,IN,46601,5000
+The Eclectic Room,Angola,IN,46703,800
+Victory Theatre,Evansville,IN,47711,1950
+Hard Rock Casino Northern Indiana,Gary,IN,46406,2000
+Murat Theatre at Old National Centre,Indianapolis,IN,46204,2681
+Deluxe at Old National Centre,Indianapolis,IN,46204,500
+Clyde Theatre,Fort Wayne,IN,46808,2200
+Palladium Center For The Performing Arts,Carmel,IN,46032,1600
+Notre Dame Stadium,South Bend,IN,46556,77622
+Allen County War Memorial Coliseum,Fort Wayne,IN,46805,13000
+TCU Amphitheater at White River State Park,Indianapolis,IN,46204,3000
+Citadel Music Hall,Indianapolis,IN,46241,1800
+Azura Amphitheater,Bonner Springs,KS,66012,18000
+Intrust Bank Arena,Wichita,KS,67202,15750
+Kanza Hall,Overland Park,KS,66213,996
+Hartman Arena,Park City,KS,67147,6500
+Johnson County Community College - Yardley Hall,Overland Park,KS,66210,424
+Stiefel Theatre for the Performing Arts,Salina,KS,67401,3100
+Kansas State Fair Grandstand,Hutchinson,KS,67502,10000
+Orpheum Theatre - Wichita,Wichita,KS,67202,2600
+Granada Theater Lawrence,Lawrence,KS,66044,900
+Topeka Performing Arts Center,Topeka,KS,66603,2417
+The Cotillion,Wichita,KS,67209,2000
+KFC Yum Center,Louisville,KY,40202,17500
+Rupp Arena,Lexington,KY,40507,23500
+The Corbin Arena,Corbin,KY,40701,21500
+Manchester Music Hall,Lexington,KY,40505,1100
+Luther F Carson Four Rivers Center,Paducah,KY,42003,1806
+Southern Kentucky Performing Arts Center,Bowling Green,KY,42101,1800
+BB&T Arena at Northern Kentucky University,Newport,KY,41099,10000
+Kentucky Center - Brown Theatre,Louisville,KY,40202,1400
+Kentucky Center - Paristown Hall,Louisville,KY,40204,2000
+Headliners Music Hall,Louisville,KY,40206,700
+Bourbon Hall,Louisville,KY,40202,2500
+PBR Louisville: A Cowboy Bar,Louisville,KY,40202,150
+PromoWest Pavilion at Ovation,Newport,KY,41071,7000
+EKU Center for the Performing Arts,Richmond,KY,40475,2100
+Louisville Palace,Louisville,KY,40202,2700
+Mercury Ballroom,Louisville,KY,40202,1000
+Paramount Arts Center - KY,Ashland,KY,41101,1417
+Kroger Field,Lexington,KY,40502,61000
+Smoothie King Center,New Orleans,LA,70113,17791
+Fillmore New Orleans,New Orleans,LA,70130,2200
+Cajundome,Lafayette,LA,70506,13500
+Raising Canes River Center Arena,Baton Rouge,LA,70802,12000
+Brookshire Grocery Arena,Bossier City,LA,71112,14400
+Texas Club,Baton Rouge,LA,70806,1000
+Riverdome At Horseshoe Casino,Bossier City,LA,71111,1300
+Sams Town Hotel and Casino Shreveport,Shreveport,LA,71101,1100
+Golden Nugget - Lake Charles,Lake Charles,LA,70601,2500
+Caesars Superdome,New Orleans,LA,70112,74295
+Metropolitan Nightclub - New Orleans,New Orleans,LA,70130,1100
+Orpheum Theatre - New Orleans,New Orleans,LA,70112,1780
+Republic New Orleans,New Orleans,LA,70130,1000
+Saenger Theatre-LA,New Orleans,LA,70116,2600
+Varsity Theatre Baton Rouge,Baton Rouge,LA,70802,800
+L'Auberge Du Lac Casino and Resort,Lake Charles,LA,70601,1400
+House of Blues New Orleans,New Orleans,LA,70130,1000
+TD Garden,Boston,MA,2114,17565
+Leader Bank Pavilion,Boston,MA,2210,5000
+Paradise Rock Club,Boston,MA,2215,800
+House of Blues Boston,Boston,MA,2215,2400
+Wang Theatre,Boston,MA,2116,3500
+Xfinity Center - MA,Mansfield,MA,2048,19900
+Agganis Arena,Boston,MA,2215,7200
+Roadrunner,Boston,MA,2135,3500
+DCU Center,Worcester,MA,1608,14800
+Topsfield Fair Arena,Topsfield,MA,1983,1350
+Indian Ranch,Webster,MA,1570,3000
+Cape Cod Melody Tent,Hyannis,MA,2601,2300
+The Grand Boston,Boston,MA,2210,800
+Big Night Live,Boston,MA,2210,1500
+Tsongas Center,Lowell,MA,1852,6496
+Koussevitzky Music Shed at Tanglewood,Lenox,MA,1240,5700
+The Big E Xfinity Arena,West Springfield,MA,1089,3000
+MassMutual Center,Springfield,MA,1103,8000
+Springfield Symphony Hall,Springfield,MA,1103,2600
+Palladium Worcester,Worcester,MA,1608,2160
+South Shore Music Circus,Cohasset,MA,2025,2300
+Gillette Stadium,Foxborough,MA,2035,68756
+Brighton Music Hall,Allston,MA,2134,300
+The Sinclair,Cambridge,MA,2138,525
+Wilbur Theatre,Boston,MA,2116,1200
+Fenway Park,Boston,MA,2215,37400
+Great Scott,Allston,MA,2134,240
+Royale Boston,Boston,MA,2116,1000
+Orpheum Theatre - Boston,Boston,MA,2108,2700
+Canada Life Centre,Winnipeg,MB,R3C 5S6,16345
+Park Theatre,Winnipeg,MB,R3L 2B9,6400
+Burton Cummings Theatre,Winnipeg,MB,R3B 2H2,1638
+Club Regent Casino,Winnipeg,MB,R2C 3B2,1400
+FedExField,Landover,MD,20785,82000
+Royal Farms Arena,Baltimore,MD,21201,14000
+Merriweather Post Pavilion,Columbia,MD,21044,19316
+The Theater at MGM National Harbor,Oxon Hill,MD,20745,3000
+Ocean City Convention Center,Ocean City,MD,21842,5000
+Camden Yards,Baltimore,MD,21201,45971
+Morgan State University,Baltimore,MD,21251,2000
+Power Plant Live!,Baltimore,MD,21202,4000
+Pier Six Pavilion,Baltimore,MD,21202,4600
+Hippodrome Performing Arts Center,Baltimore,MD,21201,2300
+PNC Waterside Pavilion at Calvert Marine Museum,Solomons,MD,20688,7000
+Chesapeake Employers Insurance Arena,Baltimore,MD,21250,6000
+Great Frederick Fair,Frederick,MD,21705,3000
+The Fillmore Silver Spring,Silver Spring,MD,20910,2000
+Baltimore SoundStage,Baltimore,MD,21202,700
+Rams Head Live,Baltimore,MD,21202,1600
+Cross Insurance Arena,Portland,ME,4101,6733
+Maine Savings Amphitheater,Bangor,ME,4401,3500
+Cross Insurance Center,Bangor,ME,4401,8500
+Aura,Portland,ME,4101,1000
+State Theatre Portland,Portland,ME,4101,1870
+Rock Row,Westbrook,ME,4092,8000
+Thompsons Point,Portland,ME,4102,7500
+Little Caesars Arena,Detroit,MI,48201,19515
+Van Andel Arena,Grand Rapids,MI,49503,10834
+Masonic Temple - Detroit,Detroit,MI,48201,4300
+Dow Event Center,Saginaw,MI,48607,7600
+DTE Energy Music Theatre,Clarkston,MI,48348,15274
+The Fillmore Detroit,Detroit,MI,48201,2900
+GLC Live at 20 Monroe,Grand Rapids,MI,49503,2600
+Soaring Eagle Casino and Resort,Mount Pleasant,MI,48858,10000
+Leelanau Sands Showroom,Suttons Bay,MI,49682,1000
+Berrien County Youth Fair,Berrien Springs,MI,49103,1866
+Intersection,Grand Rapids,MI,49503,1808
+Firekeepers Casino and Hotel,Battle Creek,MI,49014,2000
+Allegan County Fair,Allegan,MI,49010,12000
+The Intersection - The Stache,Grand Rapids,MI,49503,400
+Deluxx Fluxx,Detroit,MI,48226,240
+Kewadin Shores Casino,St Ignace,MI,49781,1800
+Kresge Auditorium at Interlochen Center,Interlochen,MI,49643,3929
+Silver Creek Event Center at Four Winds,New Buffalo,MI,49117,1600
+Island Resort & Casino - MI,Harris,MI,49845,750
+Kubiak Family Farms,Fowlerville,MI,48836,20000
+Gervin GameAbove Center,Ypsilanti,MI,48197,9500
+State Theatre Kalamazoo,Kalamazoo,MI,49007,1569
+Ford Field,Detroit,MI,48226,78000
+Fox Theatre Detroit,Detroit,MI,48201,5174
+St. Andrews Hall,Detroit,MI,48226,800
+The Machine Shop - MI,Flint,MI,48507,550
+Comerica Park,Detroit,MI,48201,41782
+Meadow Brook Amphitheatre,Rochester Hills,MI,48309,7701
+The Crofoot Ballroom,Pontiac,MI,48342,1100
+Royal Oak Music Theatre,Royal Oak,MI,48067,1700
+Freedom Hill Amphitheater,Sterling Heights,MI,48312,7200
+The Shelter at St. Andrews Hall,Detroit,MI,48226,226
+Cathedral Theatre at the Masonic Temple - Detroit,Detroit,MI,48201,1586
+Xcel Energy Center,Saint Paul,MN,55101,18568
+Armory - Minneapolis,Minneapolis,MN,55415,8000
+Target Center,Minneapolis,MN,55403,19356
+US Bank Stadium,Minneapolis,MN,55415,73000
+AMSOIL Arena,Duluth,MN,55802,9264
+Bluestem Center for the Arts,Moorhead,MN,56560,3000
+Mayo Clinic Health Systems Event Center,Mankato,MN,56001,6500
+Minnesota State Fair,Saint Paul,MN,55108,17000
+Fillmore Minneapolis,Minneapolis,MN,55401,1500
+Orpheum Theatre - Minneapolis,Minneapolis,MN,55403,2600
+State Theatre Minneapolis,Minneapolis,MN,55402,2181
+Skyway Theater,Minneapolis,MN,55402,2500
+Mystic Lake Casino Hotel,Prior Lake,MN,55372,2100
+The Ledge Waite Park Amphitheater,Waite Park,MN,56387,6000
+Treasure Island Amphitheater - Welch,Welch,MN,55089,16000
+Northrop Auditorium,Minneapolis,MN,55455,2700
+Treasure Island Resort and Casino - Welch,Welch,MN,55089,9400
+Varsity Theater Minneapolis,Minneapolis,MN,55414,900
+7th Street Entry,Minneapolis,MN,55403,250
+Myth,Saint Paul,MN,55109,3000
+First Avenue,Minneapolis,MN,55403,1550
+Palace Theatre St. Paul,Saint Paul,MN,55102,2500
+Cabooze,Minneapolis,MN,55404,1000
+Enterprise Center,St. Louis,MO,63103,19260
+T-Mobile Center,Kansas City,MO,64106,18972
+Mizzou Arena,Columbia,MO,65201,15061
+Ozarks Amphitheater,Camdenton,MO,65020,20000
+Gillioz Theatre,Springfield,MO,65806,1130
+Cable Dahmer Arena,Independence,MO,64050,5800
+The Factory,Chesterfield,MO,63005,3000
+Hollywood Casino Amphitheatre St Louis,Maryland Heights,MO,63043,20000
+Show Me Center,Cape Girardeau,MO,63701,6972
+The Pageant,St. Louis,MO,63112,2300
+Midnight Rodeo Springfield,Springfield,MO,65804,1300
+JQH Arena,Springfield,MO,65897,11000
+Busch Stadium,St. Louis,MO,63102,45538
+Knuckleheads Saloon,Kansas City,MO,64120,700
+Delmar Hall,St. Louis,MO,63112,750
+Stifel Theatre,St. Louis,MO,63103,3100
+Arvest Bank Theatre at The Midland,Kansas City,MO,64105,3000
+Ryse,Saint Charles,MO,63301,1300
+Saint Louis Music Park,Maryland Heights,MO,63043,4500
+MO Country,Grain Valley,MO,64029,800
+Ballpark Village St. Louis,St. Louis,MO,63102,5000
+Juanita K. Hammons Hall,Springfield,MO,65806,2200
+Family Arena,Saint Charles,MO,63303,10467
+Black Oak Mountain Amphitheater,Lampe,MO,65681,9000
+GEHA Field at Arrowhead Stadium,Kansas City,MO,64129,81425
+Starlight Theatre,Kansas City,MO,64132,8100
+Fabulous Fox Theatre - St. Louis,St. Louis,MO,63103,4500
+Blue Note - MO,Columbia,MO,65201,200
+The Truman,Kansas City,MO,64106,1200
+Uptown Theater Kansas City,Kansas City,MO,64111,1700
+The Dome at America's Center,St. Louis,MO,63101,66000
+Fubar - MO,St. Louis,MO,63101,500
+Chaifetz Arena,St. Louis,MO,63103,10600
+Brandon Amphitheater,Brandon,MS,39042,7000
+Beau Rivage Theatre,Biloxi,MS,39530,1595
+BancorpSouth Arena,Tupelo,MS,38804,10000
+Rick's Cafe,Starkville,MS,39759,800
+Lyric Theatre Oxford,Oxford,MS,38655,1000
+Landers Center,Southaven,MS,38671,8400
+Mississippi Coast Coliseum,Biloxi,MS,39531,11500
+BankPlus Amphitheater at Snowden Grove,Southaven,MS,38672,11000
+Horseshoe Casino Robinsonville,Robinsonville,MS,38664,1400
+Hattiesburg Saenger Theater,Hattiesburg,MS,39401,1000
+Gold Strike Casino Resort,Tunica Resorts,MS,38664,650
+Hard Rock Live - Biloxi,Biloxi,MS,39530,2000
+City Hall Live,Brandon,MS,39042,2000
+First Interstate Arena,Billings,MT,59101,12000
+Big Sky Events Arena,Gallatin Gateway,MT,59730,5000
+Adams Event Center,Missoula,MT,59812,7538
+Brick Breeden Fieldhouse,Bozeman,MT,59717,8455
+Bobcat Stadium - MT,Bozeman,MT,59717,17777
+Big Sky Brewery,Missoula,MT,59808,5000
+Wilma Theatre Missoula,Missoula,MT,59802,1400
+Washington-Grizzly Stadium,Missoula,MT,59812,25203
+KettleHouse Amphitheater,Bonner,MT,59823,4000
+Avenir Centre,Moncton,NB,E1C1H4,8800
+Casino New Brunswick,Moncton,NB,E1G0R7,2100
+Spectrum Center,Charlotte,NC,28202,20200
+PNC Arena,Raleigh,NC,27607,19772
+Greensboro Coliseum Complex,Greensboro,NC,27403,22000
+PNC Music Pavilion,Charlotte,NC,28262,18800
+Kidd Brewer Stadium,Boone,NC,28607,30000
+The Fillmore Charlotte,Charlotte,NC,28202,2000
+Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,27610,20601
+Coyote Joes,Charlotte,NC,28208,2000
+Booth Amphitheatre at Regency Park,Cary,NC,27518,7000
+Harrahs Cherokee Resort Event Center,Cherokee,NC,28719,3000
+The Ritz Raleigh,Raleigh,NC,27609,1400
+Greenfield Lake Amphitheater,Wilmington,NC,28401,900
+Bank of America Stadium,Charlotte,NC,28202,75412
+Steven Tanger Center for the Performing Arts,Greensboro,NC,27401,3000
+Ovens Auditorium,Charlotte,NC,28205,2460
+Live Oak Bank Pavilion,Wilmington,NC,28401,7200
+City Limits Saloon - Raleigh,Raleigh,NC,27603,200
+Carolina Theatre - Fletcher Hall,Durham,NC,27401,1323
+The Underground at The Fillmore Charlotte,Charlotte,NC,28206,800
+Belk Theater at Blumenthal Performing Arts Center,Charlotte,NC,28202,2100
+Bojangles Coliseum,Charlotte,NC,28205,9605
+Cone Denim Entertainment Center,Greensboro,NC,27401,850
+White Oak Amphitheatre at the Greensboro Coliseum Complex,Greensboro,NC,27403,7061
+Cape Fear Community College,Wilmington,NC,28401,1500
+Crown Center Complex of Cumberland County,Fayetteville,NC,28306,10000
+Harrahs Cherokee Center Asheville,Asheville,NC,28801,7654
+Piedmont Hall,Greensboro,NC,27403,2300
+Tarheel Opry House,Jacksonville,NC,28540,776
+Duke Energy Center - Memorial Auditorium,Raleigh,NC,27601,2277
+Red Hat Amphitheater,Raleigh,NC,27601,5400
+Durham Performing Arts Center,Durham,NC,27701,2712
+Charlotte Metro Credit Union Amphitheatre,Charlotte,NC,28202,5000
+Orange Peel,Asheville,NC,28801,1050
+Fargodome,Fargo,ND,58102,19000
+Alerus Center,Grand Forks,ND,58201,21000
+Ralph Engelstad Arena,Grand Forks,ND,58203,11640
+Fargo Theatre,Fargo,ND,58102,870
+North Dakota State Fairgrounds,Minot,ND,58702,5200
+Norsk Hostfest - State Fair Center,Minot,ND,58701,5200
+Bismarck Civic Center,Bismarck,ND,58504,10100
+CHI Health Center Omaha,Omaha,NE,68102,18975
+Bourbon Theatre,Lincoln,NE,68508,750
+Pinnacle Bank Arena,Lincoln,NE,68508,15500
+Nebraskaland Grounds - Wild West Arena,North Platte,NE,69101,10000
+Ralston Arena,Ralston,NE,68127,4400
+Heartland Events Center at the Nebraska State Fair,Grand Island,NE,68802,6000
+The Royal Grove,Lincoln,NE,68521,1000
+Barnato,Omaha,NE,68118,300
+Slowdown,Omaha,NE,68102,750
+Baxter Arena,Omaha,NE,68106,7898
+Buffalo County Fairgrounds,Kearney,NE,68847,5500
+Nebraska State Fair - Fonner Park,Grand Island,NE,68801,7500
+Pinewood Bowl Theater,Lincoln,NE,68522,5500
+Orpheum Theatre - Omaha,Omaha,NE,68102,2600
+Bank of New Hampshire Pavilion,Gilford,NH,3249,8300
+SNHU Arena,Manchester,NH,3101,11770
+Hampton Beach Casino Ballroom,Hampton,NH,3842,2200
+The Music Hall Portsmouth,Portsmouth,NH,3801,900
+Prudential Center,Newark,NJ,7102,18711
+MetLife Stadium,East Rutherford,NJ,7073,82500
+Boardwalk Hall,Atlantic City,NJ,8401,10500
+BB&T Pavilion,Camden,NJ,8103,25000
+PNC Bank Arts Center,Holmdel,NJ,7733,17500
+Paramount Theatre Asbury Park,Asbury Park,NJ,7712,1600
+Borgata Casino Event Center,Atlantic City,NJ,8401,2400
+Etess Arena at Hard Rock Hotel and Casino,Atlantic City,NJ,8401,7000
+Ovation Hall at Ocean Casino Resort,Atlantic City,NJ,8401,5000
+Hard Rock Hotel and Casino Atlantic City - DAER Nightclub,Atlantic City,NJ,8401,1500
+House of Independents,Asbury Park,NJ,7712,500
+Hackensack Meridian Health Theatre,Red Bank,NJ,7701,1568
+Tropicana Casino - NJ,Atlantic City,NJ,8401,2000
+Borgata Casino Music Box,Atlantic City,NJ,8401,1000
+Community Theatre at Mayo Performing Arts Center,Morristown,NJ,7960,1302
+Bergen Performing Arts Center,Englewood,NJ,7631,1399
+State Theatre New Brunswick,New Brunswick,NJ,8901,1847
+New Jersey Performing Arts Center,Newark,NJ,7102,3352
+Atlantic City Beach,Atlantic City,NJ,8401,50000
+Wellmont Theater,Montclair,NJ,7042,2600
+Starland Ballroom,Sayreville,NJ,8872,2500
+Stone Pony,Asbury Park,NJ,7712,600
+Holy Heart Theatre,St. John's,NL,A1C 3Z3,1100
+Mile One Centre,St. John's,NL,NL A1C 1J3,7000
+Isleta Amphitheater,Albuquerque,NM,87105,12000
+Pan American Center,Las Cruces,NM,88003,12482
+Sandia Resort and Casino,Albuquerque,NM,87113,4000
+Isleta Casino and Resort,Albuquerque,NM,87105,2400
+Route 66 Casino,Albuquerque,NM,87121,2800
+Kiva Auditorium,Albuquerque,NM,87102,2300
+Tingley Coliseum,Albuquerque,NM,87108,11571
+Inn Of The Mountain Gods Resort,Mescalero,NM,88340,3000
+Scotiabank Centre,Halifax,NS,B3J 2V9,11093
+MGM Grand Garden Arena,Las Vegas,NV,89109,16800
+Michelob ULTRA Arena at Mandalay Bay Resort and Casino,Las Vegas,NV,89119,12000
+Dolby Live at Park MGM,Las Vegas,NV,89109,6400
+XS Nightclub at Encore,Las Vegas,NV,89109,3500
+Encore Theater At Wynn Las Vegas,Las Vegas,NV,89109,1480
+Cosmopolitan of Las Vegas,Las Vegas,NV,89109,2500
+House of Blues Las Vegas,Las Vegas,NV,89119,1800
+Zappos Theater at Planet Hollywood,Las Vegas,NV,89109,4600
+Reno Events Center,Reno,NV,89501,7500
+Grand Sierra Theatre,Reno,NV,89595,2500
+T-Mobile Arena,Las Vegas,NV,89158,20000
+Caesars Palace,Las Vegas,NV,89109,4100
+Laughlin Event Center at Edgewater Hotel Casino,Laughlin,NV,89029,11600
+Mandalay Bay Beach,Las Vegas,NV,89119,12000
+Harveys Outdoor Arena - Lake Tahoe NV,Stateline,NV,89449,9300
+Harrahs Reno,Reno,NV,89501,400
+The Theater at Virgin Hotels Las Vegas,Las Vegas,NV,89109,4500
+Resorts World Theatre,Las Vegas,NV,89109,5000
+Nugget Event Center,Sparks,NV,89431,8500
+Allegiant Stadium,Las Vegas,NV,89118,65000
+Zouk Nightclub,Las Vegas,NV,89109,5000
+Drais Beachclub and Nightclub,Las Vegas,NV,89109,4000
+Venetian Theatre at the Venetian Las Vegas,Las Vegas,NV,89109,1815
+Pearl Concert Theater at Palms Casino Resort,Las Vegas,NV,89103,2500
+Green Valley Ranch,Henderson,NV,89052,2000
+Harrahs South Shore Showroom,Stateline,NV,89449,750
+Peppermill Concert Hall,West Wendover,NV,89883,1000
+Silver State Pavilion at Grand Sierra Resort,Reno,NV,89595,2240
+Harrahs Rio Vista Outdoor Amphitheater,Laughlin,NV,89029,3000
+Downtown Las Vegas - DLV Events Center,Las Vegas,NV,89101,15000
+Reno Ballroom,Reno,NV,89501,3000
+Kaos Dayclub and Nightclub,Las Vegas,NV,89103,5000
+Bunkhouse Saloon,Las Vegas,NV,89101,200
+Brooklyn Bowl - Las Vegas,Las Vegas,NV,89109,2000
+MVP Arena,Albany,NY,12207,17500
+KeyBank Center,Buffalo,NY,14203,19200
+Barclays Center,Brooklyn,NY,11217,18103
+Madison Square Garden,New York,NY,10001,20000
+Nassau Coliseum,Uniondale,NY,11553,16297
+Radio City Music Hall,New York,NY,10020,6015
+The Rooftop at Pier 17,New York,NY,10038,3400
+Hammerstein Ballroom,New York,NY,10001,3500
+UBS Arena,Elmont,NY,11003,18853
+Brooklyn Mirage,Brooklyn,NY,11237,6000
+St. Josephs Health Amphitheater at Lakeview,Syracuse,NY,13209,17500
+Ford Amphitheater at Coney Island Boardwalk,Brooklyn,NY,11224,5000
+Citi Field,New York,NY,11368,41800
+Saratoga Performing Arts Center,Saratoga Springs,NY,12866,25100
+Mulcahys,Wantagh,NY,11793,1200
+Constellation Brands Performing Arts Center,Canandaigua,NY,14424,15000
+Irving Plaza,New York,NY,10003,1200
+Darien Lake Performing Arts Center,Darien Center,NY,14040,21600
+Northwell Health at Jones Beach Theater,Wantagh,NY,11793,14400
+NYCB Theatre at Westbury,Westbury,NY,11590,2800
+The Paramount Huntington,Huntington,NY,11743,1500
+Carnegie Hall - Isaac Stern Auditorium,New York,NY,10019,2804
+Bowery Ballroom,New York,NY,10002,550
+Gramercy Theatre,New York,NY,10010,600
+Town Hall New York,New York,NY,10036,1500
+Upstate Concert Hall,Clifton Park,NY,12065,1300
+Erie County Fair,Hamburg,NY,14075,7200
+Beacon Theatre,New York,NY,10023,2894
+Turning Stone Resort and Casino Event Center,Verona,NY,13478,5000
+The Seneca Niagara Events Center at Seneca Niagara Casino,Niagara Falls,NY,14303,2380
+The Vine at Del Lago Resort and Casino,Waterloo,NY,13165,2400
+Enjoie Golf Course,Endicott,NY,13760,25000
+Highmark Stadium,Orchard Park,NY,14127,73079
+Tags Summer Stage,Big Flats,NY,14814,7500
+House of Power Stadium at Orange County Fair Speedway,Middletown,NY,10940,50835
+Michie Stadium,West Point,NY,10996,38000
+Apollo Theater New York,New York,NY,10027,1506
+Keg's Canalside Event Center,Jordan,NY,13080,2800
+The Egg,Albany,NY,12220,1432
+Sheas Performing Arts Center - Buffalo Theatre,Buffalo,NY,14202,3019
+Coney Art Walls,Brooklyn,NY,11224,2000
+Carrier Dome,Syracuse,NY,13244,49250
+Babys All Right,Brooklyn,NY,11211,280
+SOB's (Sounds of Brazil),New York,NY,10014,400
+Town Ballroom,Buffalo,NY,14203,1000
+Water Street Music Hall,Rochester,NY,14614,1000
+Great Hall - Avant Gardner,Brooklyn,NY,11237,5000
+Palladium Times Square,New York,NY,10036,2100
+Lost Circus - Avant Gardner,Brooklyn,NY,11237,6200
+Rec Room - Buffalo,Buffalo,NY,14202,400
+The Lost Horizon,Syracuse,NY,13224,500
+The Chance,Poughkeepsie,NY,12601,900
+Bardavon Opera House,Poughkeepsie,NY,12601,944
+Resorts World Catskills,Monitcello,NY,12701,1500
+Artpark Outdoor Amphitheater,Lewiston,NY,14092,10000
+The TimesCenter,New York,NY,10036,378
+Capitol Theatre Port Chester,Port Chester,NY,10573,1800
+Rochester Auditorium,Rochester,NY,14605,3901
+Landmark Theatre Syracuse,Syracuse,NY,13202,3000
+Terminal 5,New York,NY,10019,3000
+Forest Hills Stadium at West Side Tennis Club,Forest Hills,NY,11375,14000
+Tilles Center Concert Hall,Brookville,NY,11548,2242
+Kodak Center,Rochester,NY,14615,1968
+St. James Theatre New York,New York,NY,10036,1710
+Visions Veterans Memorial Arena,Binghamton,NY,13901,6925
+Main Street Armory,Rochester,NY,14605,6500
+Batavia Downs,Batavia,NY,14020,2500
+Empire Live,Albany,NY,12207,9600
+Cool Insuring Arena,Glens Falls,NY,12801,7562
+United Palace Theatre,New York,NY,10033,3327
+Canalside,Buffalo,NY,14202,45000
+Music Hall of Williamsburg,Brooklyn,NY,11211,550
+Webster Hall,New York,NY,10003,1500
+Bethel Woods Center For The Arts,Bethel,NY,12720,15000
+Hulu Theater at Madison Square Garden,New York,NY,10010,5600
+Rocket Mortgage FieldHouse,Cleveland,OH,44115,19432
+Value City Arena at Schottenstein Center,Columbus,OH,43210,18809
+Nationwide Arena,Columbus,OH,43215,20000
+Riverbend Music Center,Cincinnati,OH,45230,20500
+Blossom Music Center,Cuyahoga Falls,OH,44223,19600
+Bogarts,Cincinnati,OH,45219,1500
+Agora Theatre,Cleveland,OH,44103,1800
+Progressive Field,Cleveland,OH,44115,43345
+Great American Ball Park,Cincinnati,OH,45202,42319
+The Basement-OH,Columbus,OH,43215,300
+Grog Shop,Cleveland,OH,44106,400
+House of Blues Cleveland,Cleveland,OH,44114,1200
+KEMBA LIVE!,Columbus,OH,43215,2200
+Heritage Bank Center,Cincinnati,OH,45202,17556
+Andrew J Brady ICON Music Center,Cincinnati,OH,45202,8000
+ICON Festival Stage,Cincinnati,OH,45202,4500
+MGM Northfield Park - Center Stage,Northfield,OH,44067,2600
+Taft Theatre,Cincinnati,OH,45202,2500
+Covelli Centre,Youngstown,OH,44503,5900
+Allen County Fairgrounds,Lima,OH,45804,13000
+Flannagans Dublin,Columbus,OH,43235,4000
+Stranahan Theatre,Toledo,OH,43614,2424
+Huntington Center,Toledo,OH,43604,8000
+Stambaugh Stadium,Youngstown,OH,44504,20630
+Holiday Auto Theatre - OH,Hamilton,OH,45013,400
+Peoples Bank Theatre,Marietta,OH,45750,952
+Packard Music Hall,Warren,OH,44483,2500
+Tom Benson Hall of Fame Stadium,Canton,OH,44701,23000
+Fraze Pavilion,Dayton,OH,45429,4300
+The Bluestone,Columbus,OH,43215,1000
+Dusty Armadillo,Rootstown,OH,44272,200
+Tequila Cowboy - Columbus,Columbus,OH,43240,1800
+Riverfront Live,Cincinnati,OH,45226,3500
+State Theatre-Playhouse Square Center,Cleveland,OH,44115,3400
+Wolstein Center at CSU,Cleveland,OH,44115,13610
+OTR Live,Cincinnati,OH,45202,20000
+Rose Music Center at The Heights,Huber Heights,OH,45424,4200
+Toledo Zoo Amphitheatre,Toledo,OH,43609,4500
+Palace Theatre Columbus,Columbus,OH,43215,2695
+Promenade Park Stage,Toledo,OH,43604,10000
+Severance Hall,Cleveland,OH,44106,400
+Canton Palace Theater,Canton,OH,44702,1488
+Nutter Center,Dayton,OH,45435,11200
+Canfield Fairgrounds,Canfield,OH,44406,64450
+Hobart Arena,Troy,OH,45373,5282
+Templeton-Blackburn Alumni Memorial Auditorium,Athens,OH,45701,2500
+Miller Family Farm,Pleasantville,OH,43148,20000
+Madison County Fairgrounds - OH,London,OH,43140,700
+Celeste Center,Columbus,OH,43211,10200
+Newport Music Hall,Columbus,OH,43201,1700
+Youngstown Foundation Amphitheatre,Youngstown,OH,44503,4800
+Jacobs Pavilion at Nautica,Cleveland,OH,44113,4500
+PNC Pavilion,Cincinnati,OH,45230,18800
+Paycom Center,Oklahoma City,OK,73107,16600
+BOK Center,Tulsa,OK,74103,19100
+Choctaw Grand Theater,Durant,OK,74701,3000
+Cains Ballroom,Tulsa,OK,74103,1500
+The Criterion OKC,Oklahoma City,OK,73104,3500
+OKC Zoo Amphitheatre,Oklahoma City,OK,73111,7000
+Lloyd Noble Center,Norman,OK,73019,11528
+Riverwind Casino,Norman,OK,73069,1500
+WinStar World Casino,Thackerville,OK,73459,3500
+Tower Theatre - OKC,Oklahoma City,OK,73103,700
+The Cove at River Spirit Casino,Tulsa,OK,74137,2700
+Hard Rock Hotel and Casino Tulsa - The Joint,Catoosa,OK,74015,2600
+Tulsa Theater,Tulsa,OK,74103,2800
+The Jones Assembly,Oklahoma City,OK,73106,1600
+Osage Million Dollar Elm Casino,Sand Springs,OK,74063,2000
+Stride Bank Center,Enid,OK,73701,3800
+Diamond Ballroom,Oklahoma City,OK,73149,1000
+Scotiabank Arena,Toronto,ON,M5J 2X2,19800
+O2 Arena - London,London,on,SE10 0DX,20000
+Budweiser Stage,Toronto,ON,M6K 3B9,16000
+OVO Hydro,Glasgow,on,G38YW,13000
+Wembley Stadium,London,on,HA9 7EX,90000
+AO Arena,Manchester,on,M3 1AR,21000
+Canadian Tire Centre,Ottawa,ON,K2V 1A5,20500
+Rogers Centre,Toronto,ON,M5V 1J3,50000
+SSE Arena Wembley,London,on,E14 9TH,12500
+FirstOntario Centre,Hamilton,ON,L8R 3L4,19000
+Budweiser Gardens,London,ON,N6A 6K1,9100
+Massey Hall,Toronto,ON,M5B 1T7,2752
+Eventim Apollo,London,on,W6 9QH,5100
+Meridian Hall - Toronto,Toronto,ON,M5E 1B2,3200
+Avalon Ballroom Theatre at Niagara Fallsview Casino Resort,Niagara Falls,ON,L2G 7X5,1500
+The Opera House Toronto,Toronto,ON,M4M 1H1,850
+Cardiff City Stadium,South Glamorgan,on,CF11 8AZ,25000
+Coca-Cola Coliseum,Toronto,ON,M6K 3C3,9250
+O2 Academy Brixton,London,on,SW9 9SL,4921
+The Danforth Music Hall,Toronto,ON,M4K 1N2,1500
+National Arts Centre,Ottawa,ON,K1P 5W1,3670
+Centre in the Square Ontario,Kitchener,ON,N2H 6P7,2047
+Mediolanum Forum,Milan,on,IT-MILA,13200
+Leons Centre,Kingston,ON,K7K 0B4,5700
+Tribute Communities Centre,Oshawa,ON,L1H 1J8,5500
+Casino Rama,Rama,ON,L3V6H6,5000
+The Colosseum at Caesars Windsor,Windsor,ON,N9A 7H7,5000
+Fallsview Casino Entertainment Centre,Niagara Falls,ON,L2E 7H3,5000
+Burls Creek Park,Oro Medonte,ON,L0L2X0,100000
+Velvet Underground,Toronto,ON,N5V 2B3,440
+History Toronto,Toronto,ON,M4L 1G5,2500
+London Music Hall - Ontario,London,ON,N6A 1G7,1930
+Rebel - ON,Toronto,ON,M5A 1A4,2500
+Phoenix Concert Theatre,Toronto,ON,M4X 1K2,1350
+FirstOntario Concert Hall,Hamilton,ON,L8P 1H6,2193
+Community Auditorium Thunder Bay,Thunder Bay,ON,P7B 6C7,1511
+Harris Park Ontario,London,ON,N6A 1B5,50000
+Queen Elizabeth Theatre - Toronto,Toronto,ON,M6K 3C3,1250
+Liverpool Echo Arena,Liverpool,on,L3 4BX,11000
+Wiener Stadthalle,Vienna,on,0,16000
+Mercedes-Benz Arena - Berlin,Berlin,on,10243,17000
+Lanxess Arena,Cologne,on,50679,19500
+Tele2 Arena,Johanneshov,on,0,69000
+RBC Echo Beach,Toronto,ON,M6K3L3,5000
+Bronson Centre,Ottawa,ON,K1R 6H5,1000
+Sault Community Theatre Centre,Sault Ste. Marie,ON,P6A 5K9,987
+Mavricks Music Hall,Barrie,ON,L4N1A4,2500
+Moda Center,Portland,OR,97227,20000
+Roseland Theater,Portland,OR,97209,1480
+Wow Hall,Eugene,OR,97401,400
+McMenamins Crystal Ballroom,Portland,OR,97209,1500
+Portland Memorial Coliseum,Portland,OR,97227,12888
+Arlene Schnitzer Concert Hall,Portland,OR,97205,2776
+Theater of the Clouds at Moda Center,Portland,OR,97227,6500
+Matthew Knight Arena,Eugene,OR,97401,12364
+LB Day Amphitheatre at Oregon State Fairgrounds,Salem,OR,97303,14000
+Hayden Homes Amphitheater,Bend,OR,97702,8000
+Linn County Expo Center,Albany,OR,97322,2256
+Seven Feathers Casino Resort,Canyonville,OR,97417,2250
+Hawthorne Theatre,Portland,OR,97214,500
+McDonald Theatre,Eugene,OR,97402,759
+Jackson County Fair-OR,Central Point,OR,97502,10000
+Britt Pavilion,Jacksonville,OR,97530,2200
+Hult Center - Silva Concert Hall,Eugene,OR,97401,2447
+Oregon Zoo Amphitheatre,Portland,OR,97221,1000
+McMenamins Historic Edgefield Manor,Troutdale,OR,97060,225
+Wells Fargo Center-PA,Philadelphia,PA,19148,19500
+PPG Paints Arena,Pittsburgh,PA,15219,20000
+Santander Arena,Reading,PA,19601,7083
+The Met Philadelphia,Philadelphia,PA,19130,3500
+Bryce Jordan Center,University Park,PA,16802,16000
+Giant Center,Hershey,PA,17033,10500
+Lincoln Financial Field,Philadelphia,PA,19147,68532
+Chameleon Club,Lancaster,PA,17603,750
+PPL Center,Allentown,PA,18101,10500
+The Pavilion at Star Lake,Burgettstown,PA,15021,23000
+Hersheypark Stadium,Hershey,PA,17033,30000
+Wind Creek Event Center,Bethlehem,PA,18015,3800
+The Pavilion at Montage Mountain,Scranton,PA,18505,18000
+American Music Theatre,Lancaster,PA,17602,1600
+Mohegan Sun Arena at Casey Plaza,Wilkes-Barre,PA,18702,8300
+Heinz Field,Pittsburgh,PA,15212,65050
+Theatre of Living Arts,Philadelphia,PA,19147,800
+Keswick Theatre,Glenside,PA,19038,1300
+Citizens Bank Park,Philadelphia,PA,19148,43647
+PNC Park,Pittsburgh,PA,15212,38496
+Stage AE,Pittsburgh,PA,15212,5500
+Petersen Events Center,Pittsburgh,PA,15260,3500
+NOTO Philadelphia,Philadelphia,PA,19107,996
+Union Transfer,Philadelphia,PA,19123,1000
+Franklin Music Hall,Philadelphia,PA,19123,3000
+Tower Theater Upper Darby,Upper Darby,PA,19082,3100
+Crawford County Fair - PA,Meadville,PA,16335,10000
+York Fair,York,PA,17404,5500
+Erie Insurance Arena,Erie,PA,16501,9000
+Cambria County War Memorial Arena,Johnstown,PA,15901,4001
+Kirby Center,Wilkes-Barre,PA,18702,1800
+Luhrs Center,Shippensburg,PA,17257,1500
+Parx Casino and Racing,Bensalem,PA,19020,1500
+Bethlehem Musikfest Grounds - Wind Creek Steel Stage,Bethlehem,PA,18015,6200
+Benedum Center,Pittsburgh,PA,15222,2800
+Santander Performing Arts Center,Reading,PA,19601,1752
+Allentown Fairgrounds,Allentown,PA,18104,14500
+Jergels Rhythm Grille,Warrendale,PA,15086,600
+The Foundry Philadelphia,Philadelphia,PA,19123,450
+Roxian Theatre,McKees Rocks,PA,15136,1400
+World Cafe Live Philadelphia,Philadelphia,PA,19104,200
+The Fillmore Philadelphia,Philadelphia,PA,19123,2500
+Liacouras Center,Philadelphia,PA,19122,10200
+TD Pavilion at the Mann,Philadelphia,PA,19131,14000
+Dell Music Center,Philadelphia,PA,19131,5944
+Skyline Stage at the Mann,Philadelphia,PA,19131,4000
+Hershey Theatre,Hershey,PA,17033,1904
+UPMC Events Center,Moon,PA,15108,4000
+Brooklyn Bowl Philadelphia,Philadelphia,PA,19123,900
+Sherman Theater,Stroudsburg,PA,18360,1250
+Harrisburg Midtown Arts Center,Harrisburg,PA,17102,800
+Wild Things Park,Washington,PA,15301,3200
+Estadio Hiram Bithorn,San Juan,PR,920,18000
+Bell Centre,Montreal,QC,H4B 5G0,21273
+Place Bell,Laval,QC,H7N 5H9,2500
+MTELUS,Montreal,QC,H2X 1K5,2300
+Corona Theatre,Montreal,QC,H3J 1N5,925
+Place Des Arts - Salle Wilfrid Pelletier,Montreal,QC,H2X 3X5,2990
+Videotron Centre,Quebec City,QC,G1L 5A7,18259
+Dunkin Donuts Center,Providence,RI,2903,12400
+The Strand Ballroom and Theatre - RI,Providence,RI,2903,1980
+Providence Performing Arts Center,Providence,RI,2903,3090
+Bon Secours Wellness Arena,Greenville,SC,29601,15951
+North Charleston Coliseum,North Charleston,SC,29418,35307
+House of Blues Myrtle Beach,North Myrtle Beach,SC,29582,2000
+Charleston Gaillard Center,Charleston,SC,29401,1700
+Music Farm Charleston,Charleston,SC,29403,800
+Colonial Life Arena,Columbia,SC,29201,18000
+Credit One Stadium,Charleston,SC,29492,10200
+The Senate,Columbia,SC,29201,1200
+Blind Horse Saloon,Greenville,SC,29607,1000
+Hanahan Amphitheater,Hanahan,SC,29410,2500
+The Windjammer,Isle of Palms,SC,29451,550
+Charleston Music Hall,Charleston,SC,29413,965
+Township Auditorium,Columbia,SC,29201,3383
+SRP Park,North Augusta,SC,29841,5000
+CCNB Amphitheatre at Heritage Park,Simpsonville,SC,29681,10000
+North Charleston Performing Arts Center,North Charleston,SC,29418,35307
+Peace Center,Greenville,SC,29601,2115
+Denny Sanford PREMIER Center,Sioux Falls,SD,57104,13000
+Summit Arena at The Monument,Rapid City,SD,57701,10000
+Swiftel Center,Brookings,SD,57006,5700
+Sanford Pentagon,Sioux Falls,SD,57107,3250
+WH Lyon Fairgrounds,Sioux Falls,SD,57104,6100
+The District Sioux Falls,Sioux Falls,SD,57106,1500
+South Dakota State Fair,Huron,SD,57350,5000
+The Monument,Rapid City,SD,57701,1690
+Washington Pavilion of Arts & Science,Sioux Falls,SD,57104,1900
+Don Barnett Arena at Rushmore Plaza Civic Center,Rapid City,SD,57701,2200
+Outlaw Square,Deadwood,SD,57732,2500
+Brandt Centre,Regina,SK,S4P 2Z6,7000
+SaskTel Centre,Saskatoon,SK,S7R 1C4,15195
+Mosaic Place,Moose Jaw,SK,S6H0Y8,4500
+Coors Event Centre,Saskatoon,SK,S7K 1K8,1000
+Conexus Arts Centre,Regina,SK,S4S 7G4,2031
+TCU Place,Saskatoon,SK,S7K 0C8,2003
+Bridgestone Arena,Nashville,TN,37203,20000
+FedEx Forum,Memphis,TN,38103,18119
+Marathon Music Works,Nashville,TN,37203,1500
+Ryman Auditorium,Nashville,TN,37219,2362
+Nissan Stadium,Nashville,TN,37213,69143
+Radians Amphitheater,Memphis,TN,38117,6500
+Exit In,Nashville,TN,37203,400
+Cannery Ballroom,Nashville,TN,37203,1000
+Minglewood Hall,Memphis,TN,38104,1200
+Orpheum Theatre - Memphis,Memphis,TN,38103,2500
+The Basement East,Nashville,TN,37206,545
+Mercy Lounge,Nashville,TN,37203,500
+Ascend Amphitheater,Nashville,TN,37201,6800
+Grand Ole Opry House,Nashville,TN,37214,4372
+Thompson-Boling Arena,Knoxville,TN,37996,21678
+The Mill and Mine,Knoxville,TN,37917,1200
+Tennessee Valley Fair,Knoxville,TN,37914,4500
+Bonnaroo Manchester Farm,Manchester,TN,37349,90000
+Cotton Eyed Joe,Knoxville,TN,37932,3000
+Brooklyn Bowl - Nashville,Nashville,TN,37201,1200
+The Signal,Chattanooga,TN,37408,1300
+Tivoli Theatre Chattanooga,Chattanooga,TN,37402,1750
+Tennessee Theatre,Knoxville,TN,37902,1631
+Country Music Hall Of Fame,Nashville,TN,37203,776
+Walker Theatre - TN,Chattanooga,TN,37402,851
+The Cowan - Nashville,Nashville,TN,37207,600
+Memorial Gymnasium,Nashville,TN,37240,14316
+FirstBank Amphitheater,Franklin,TN,37064,7500
+Schermerhorn Symphony Center,Nashville,TN,37201,1844
+Cannon Center for the Performing Arts,Memphis,TN,38103,2072
+Soldiers and Sailors Memorial Auditorium,Chattanooga,TN,37402,4878
+3rd & Lindsley,Nashville,TN,37210,1000
+UTC McKenzie Arena,Chattanooga,TN,37403,10928
+Knoxville Civic Coliseum,Knoxville,TN,37915,7141
+Nashville Municipal Auditorium,Nashville,TN,37201,9700
+The Great Lawn in Centennial Park,Nashville,TN,37203,5000
+AT&T Center,San Antonio,TX,78219,19000
+Toyota Center - TX,Houston,TX,77002,18300
+American Airlines Center - TX,Dallas,TX,75219,20000
+HEB Center at Cedar Park,Cedar Park,TX,78613,8000
+Don Haskins Center,El Paso,TX,79902,11892
+Freeman Coliseum,San Antonio,TX,78220,11700
+Moody Center ATX,Austin,TX,78712,15000
+Frank Erwin Center,Austin,TX,78701,16734
+NRG Stadium,Houston,TX,77054,80000
+Dickies Arena,Fort Worth,TX,76107,14000
+United Supermarkets Arena,Lubbock,TX,79409,15000
+Bayou Music Center,Houston,TX,77002,3464
+Dos Equis Pavilion,Dallas,TX,75210,20000
+Cynthia Woods Mitchell Pavilion,The Woodlands,TX,77380,16500
+Globe Life Park in Arlington,Arlington,TX,76011,49115
+AT&T Stadium,Arlington,TX,76011,111000
+House of Blues Houston,Houston,TX,77002,1500
+Smart Financial Centre,Sugar Land,TX,77479,6400
+Alamodome,San Antonio,TX,78203,77000
+Germania Insurance Amphitheater,Del Valle,TX,78617,14000
+Club Dada,Dallas,TX,75226,400
+House of Blues Dallas,Dallas,TX,75202,1600
+NRG Arena,Houston,TX,77054,8000
+Texas Trust CU Theatre at Grand Prairie,Grand Prairie,TX,75050,6350
+Warehouse Live,Houston,TX,77003,1650
+South Side Ballroom,Dallas,TX,75215,3000
+Houston Arena Theatre,Houston,TX,77074,2800
+Austin City Limits Live at The Moody Theater,Austin,TX,78701,2750
+Emos Austin,Austin,TX,78741,1700
+Payne Arena,Hidalgo,TX,78557,6800
+Sames Auto Arena,Laredo,TX,78041,10000
+La Hacienda Event Center,Midland,TX,79707,250
+Curtis Culwell Center,Garland,TX,75040,6860
+Cotton Bowl Stadium,Dallas,TX,75210,92100
+Fort Worth Convention Center Arena,Fort Worth,TX,76102,13500
+713 Music Hall,Houston,TX,77201,5000
+Moody Amphitheater,Austin,TX,78701,5000
+Pavilion at Toyota Music Factory,Irving,TX,75039,8000
+American Bank Center,Corpus Christi,TX,78401,10000
+Credit Union of Texas Event Center,Allen,TX,75002,8100
+Concrete Street Amphitheater,Corpus Christi,TX,78401,3000
+Dell Diamond,Round Rock,TX,78665,11631
+Ford Center at The Star,Frisco,TX,75034,12000
+Billy Bobs,Fort Worth,TX,76164,6000
+TPC San Antonio,San Antonio,TX,78261,20000
+Whitewater On The Horseshoe,New Braunfels,TX,78132,5600
+John T. Floore Country Store,Helotes,TX,78023,1000
+Trees,Dallas,TX,75226,600
+Globe Life Field,Arlington,TX,76011,40300
+Minute Maid Park,Houston,TX,77002,41168
+Isla Grand Beach Resort,South Padre Island,TX,78597,200
+El Paso County Coliseum,El Paso,TX,79905,5250
+Circuit of The Americas,Austin,TX,78617,100000
+The Bronze Peacock at House of Blues Houston,Houston,TX,77002,125
+Antone's - Austin,Austin,TX,78701,400
+Stubbs BarBQ,Austin,TX,78701,2100
+Aztec Theatre,San Antonio,TX,78205,1500
+Claytons Beach Bar and Event Venue,South Padre Island,TX,78597,5000
+Majestic Theatre San Antonio,San Antonio,TX,78205,2264
+The Factory in Deep Ellum,Dallas,TX,75226,4300
+White Oak Music Hall,Houston,TX,77009,1000
+Cle Houston,Houston,TX,77002,500
+The Parish - Austin,Austin,TX,78701,450
+Mohawk - Austin,Austin,TX,78701,900
+Bert Ogden Arena,Edinburg,TX,78539,7688
+Toyota Stadium,Frisco,TX,75033,20500
+Selena Auditorium at American Bank Center,Corpus Christi,TX,78401,2500
+Bass Concert Hall,Austin,TX,78712,2900
+The Plaza Theatre Performing Arts Center,El Paso,TX,79901,2050
+Amarillo Civic Center Auditorium,Amarillo,TX,79101,7000
+Abraham Chavez Theatre,El Paso,TX,79901,2500
+Wagner Noel Performing Arts Center,Midland,TX,79707,1819
+Texas Motor Speedway,Fort Worth,TX,76177,181655
+Vibes Event Center,San Antonio,TX,78205,1800
+Lonestar Amphitheater and Event Center,Lubbock,TX,79403,7500
+Tobin Center for the Performing Arts,San Antonio,TX,78205,2100
+McAllen Convention Center,McAllen,TX,78501,3500
+Midland County Horseshoe,Midland,TX,79702,4300
+South Plains Fair Park Coliseum,Lubbock,TX,79403,8513
+Vivint Smart Home Arena,Salt Lake City,UT,84101,18300
+UCCU Center,Orem,UT,84058,8500
+Usana Amphitheatre,Salt Lake City,UT,84118,20000
+The Depot,Salt Lake City,UT,84101,1200
+Tuacahn Amphitheatre,Ivins,UT,84738,2000
+Eccles Theater - Salt Lake City,Salt Lake City,UT,84101,2500
+Park City Live,Park City,UT,84060,800
+Maverik Center,Salt Lake City,UT,84119,12600
+The Great Saltair,Magna,UT,84044,4600
+DeJoria Center,Kamas,UT,84036,1200
+The Complex - UT,Salt Lake City,UT,84101,850
+The Union Event Center - Salt Lake City,Salt Lake City,UT,84116,3500
+Utah State Fairgrounds,Salt Lake City,UT,84115,10000
+EagleBank Arena,Fairfax,VA,22030,10000
+Jiffy Lube Live,Bristow,VA,20136,22500
+Veterans United Home Loans Amphitheater at Virginia Beach,Virginia Beach,VA,23456,20000
+The National,Richmond,VA,23219,1500
+The Norva,Norfolk,VA,23510,1450
+John Paul Jones Arena,Charlottesville,VA,22904,14593
+5th Street and Oceanfront,Virginia Beach,VA,23456,7000
+Rockingham County Fair,Harrisonburg,VA,22801,6500
+Berglund Center,Roanoke,VA,24016,10600
+Innsbrook After Hours,Glen Allen,VA,23060,8500
+Marks and Harrison Amphitheater,Fredericksburg,VA,22401,5000
+Chartway Arena,Norfolk,VA,23508,9100
+Elmwood Park Amphitheater,Roanoke,VA,24011,4000
+The Meadow Event Park,Doswell,VA,23047,20000
+Hampton Coliseum,Hampton,VA,23666,9777
+Altria Theater,Richmond,VA,23220,3565
+Capital One Hall,Tysons,VA,22102,1600
+Elevation 27,Virginia Beach,VA,23451,600
+Dr Pepper Park,Roanoke,VA,24016,8000
+The Beacon Theatre - Hopewell,Hopewell,VA,23860,640
+ORIGAMI,Norfolk,VA,23502,436
+Hampton Convocation Center,Hampton,VA,23668,8200
+Harvester Performance Center,Rocky Mount,VA,24151,460
+Eagles Nest Rockin Country Bar,Chesapeake,VA,23320,500
+Berglund Performing Arts Theater,Roanoke,VA,24016,2151
+Wolf Trap Farm,Vienna,VA,22182,7024
+Carpenter Theatre at Dominion Energy Center,Richmond,VA,23219,3600
+Ferguson Center for the Arts Concert Hall,Newport News,VA,23606,1753
+Atlantic Union Bank Pavilion,Portsmouth,VA,23704,6500
+Norfolk Scope Arena,Norfolk,VA,23510,10253
+Paramount Theatre Rutland,Rutland,VT,5701,1000
+Flynn Center for the Performing Arts,Burlington,VT,5401,1411
+Tacoma Dome,Tacoma,WA,98421,23000
+WaMu Theater - Seattle,Seattle,WA,98134,6700
+T-Mobile Park,Seattle,WA,98134,47480
+White River Amphitheatre,Auburn,WA,98092,20000
+Gorge Amphitheatre,George,WA,98848,20000
+Northern Quest Casino,Spokane,WA,99224,4000
+Knitting Factory Concert House Spokane,Spokane,WA,99201,1500
+Showbox at the Market,Seattle,WA,98101,1100
+ShoWare Center,Kent,WA,98032,6500
+Chateau Ste Michelle,Woodinville,WA,98072,4300
+Climate Pledge Arena,Seattle,WA,98109,17459
+Marymoor Amphitheater,Redmond,WA,98052,5000
+Spokane Arena,Spokane,WA,99201,12638
+Lumen Field,Seattle,WA,98134,72000
+RV Inn Style Resorts Amphitheater,Ridgefield,WA,98642,18000
+Ilani Casino Resort,Ridgefield,WA,98642,2500
+Angel of the Winds Arena,Everett,WA,98201,10000
+Puyallup Fairgrounds at Washington State Fair,Puyallup,WA,98371,10368
+Auburn Performing Arts Center,Auburn,WA,98002,950
+Central Washington State Fair,Yakima,WA,98901,10368
+Neumos,Seattle,WA,98122,650
+Showbox SODO,Seattle,WA,98134,1150
+Moore Theatre,Seattle,WA,98107,1800
+Toyota Center - WA,Kennewick,WA,99336,6000
+Paramount Theatre Seattle,Seattle,WA,98101,2807
+First Interstate Center for the Arts,Spokane,WA,99201,2700
+Deep Water Amphitheater,Manson,WA,98831,1600
+Martin Woldson Theater at the Fox,Spokane,WA,99210,1715
+Fiserv Forum,Milwaukee,WI,53203,17341
+American Family Insurance Amphitheater,Milwaukee,WI,53202,23000
+The Rave-Eagles Club,Milwaukee,WI,53233,1500
+Resch Center,Green Bay,WI,54304,9877
+Majestic Theatre-WI,Madison,WI,53703,600
+Coliseum at Alliant Energy Center,Madison,WI,53713,550
+American Family Field,Milwaukee,WI,53214,41900
+Alpine Valley Music Theatre,East Troy,WI,53120,35300
+La Crosse Center,La Crosse,WI,54601,7500
+Meyer Theatre,Green Bay,WI,54301,1000
+The Sylvee,Madison,WI,53703,2500
+Pabst Theater,Milwaukee,WI,53202,1279
+Riverside Theater - WI,Milwaukee,WI,53203,2450
+Miller High Life Theatre,Milwaukee,WI,53203,4086
+Kohl Center,Madison,WI,53711,17230
+Lambeau Field,Green Bay,WI,54307,81441
+Green Bay Distillery,Ashwaubenon,WI,54304,1000
+Jefferson County Fair Park,Jefferson,WI,53549,2200
+BMO Harris Pavilion,Milwaukee,WI,53202,5000
+Turner Hall Ballroom,Milwaukee,WI,53203,987
+Fox Cities Performing Arts Center,Appleton,WI,54911,2072
+Orpheum Theatre - Madison,Madison,WI,53703,1700
+Breese Stevens Field,Madison,WI,53703,5000
+Overture Center - Overture Hall,Madison,WI,53703,2255
+Brown County Veterans Memorial Arena,Green Bay,WI,54304,5248
+North Star Mohican Casino,Bowler,WI,54416,1000
+EPIC Event Center,Ashwaubenon,WI,54304,2100
+Statz Bros Farm,Marshall,WI,53559,20000
+Mountain Health Arena,Huntington,WV,25701,9000
+Clarksburg Amphitheater,Clarksburg,WV,26301,2000
+Charleston Coliseum and Convention Center,Charleston,WV,25301,13500
+State Fair of West Virginia,Lewisburg,WV,24901,15000
+Hollywood Casino at Charles Town Races,Charles Town,WV,25414,1200
+Appalachian Power Park,Charleston,WV,25301,4500
+West Virginia University Coliseum,Morgantown,WV,26505,14000
+Charleston Municipal Auditorium,Charleston,WV,25301,3400
+Metropolitan Theatre - WV,Morgantown,WV,26505,1300
+Cheyenne Frontier Days,Cheyenne,WY,82001,19000
+Cheyenne Civic Center,Cheyenne,WY,82001,1490

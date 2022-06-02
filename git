@@ -1,0 +1,7 @@
+echo "# ticketmodel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/cody8522/ticketmodel.git
+git push -u origin main
