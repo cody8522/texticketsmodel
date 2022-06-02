@@ -16,13 +16,12 @@ chartcols = ['sp_followers',
 	 'sp_playlist_total_reach',
 	 'cm_artist_rank','cm_artist_score','facebook_followers','ins_followers']
 
+df = pd.read_csv('BIG_SHOWS_RAW.csv')
+	st.write(df.head())
 
 
 @st.experimental_memo(suppress_st_warning = True)
 def csv_load():
-	url = 'https://github.com/cody8522/texticketsmodel/blob/main/BIG-SHOWS-RAW.csv?raw=true'
-	df = pd.read_csv(url, index_col = 0)
-	st.write(df.head())
 	event = pd.read_csv('Old Shows - Old Shows (1).csv')
 	venue_info = pd.read_csv('Venue Information.csv')
 	df = df.merge(venue_info[['Name','Adjusted Capacity']], on='Name').drop('Unnamed: 0',axis=1)
