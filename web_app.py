@@ -7,7 +7,7 @@ import zipfile
 
 print('started df formation')
 
-
+st.write("TexApp1")
 extradroplst = ['Section','Artist Name', 'Name', 'City', 'State','DayOfWeek','Month']
 chartcols = ['sp_followers',
 	 'sp_popularity',
@@ -15,7 +15,7 @@ chartcols = ['sp_followers',
 	 'sp_monthly_listeners',
 	 'sp_playlist_total_reach',
 	 'cm_artist_rank','cm_artist_score','facebook_followers','ins_followers']
-
+st.write("TexApp2")
 @st.experimental_memo(suppress_st_warning = True)
 def csv_load():
 	df = pd.read_csv('BIG-SHOWS-RAW.csv')
